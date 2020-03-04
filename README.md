@@ -5,7 +5,7 @@ leVRn:Algebra is an open source VR solution aimed at transforming education in N
 It is a VR module designed to teach different topics in the Nigerian Secondary School Curriculum. The module will be used by various secondary schools to enhance the learning experience of their students; this project is part of Imisi 3D's VR for Schools program. Imisi 3D is a current member of the UNICEF Innovation Fund cohort, more details can be found [here](https://www.unicef.org/innovation/stories/virtual-reality-classroom)
 
 ## Prerequisites
-- Unity 2019.1.0f2
+- Unity 2019.2.3f1
 
 ## Getting Started
 These instructions will get a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on your Oculus Go.
